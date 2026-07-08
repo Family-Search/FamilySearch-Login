@@ -135,7 +135,7 @@ Yes, you can access your FamilySearch login account from mobile devices using a 
 Is my FamilySearch account information secure?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-FamilySearch uses security measures to help protect user accounts and personal information. Users should also follow safe login practices to keep their accounts protected.
+FamilySearch uses security measures. to help protect user accounts and personal information. Users should also follow safe login practices to keep their accounts protected.
 
 Conclusion
 ----------
