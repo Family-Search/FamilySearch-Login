@@ -25,4 +25,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://FamilySearchlogin.readthedocs.io/en/latest/'
+html_baseurl = 'https://FamilySearch-login.readthedocs.io/en/latest/'
