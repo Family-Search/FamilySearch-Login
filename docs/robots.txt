@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://familysearchlogin.readthedocs.io/en/latest/
+Sitemap: https://familysearch-login.readthedocs.io/en/latest/
