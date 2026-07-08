@@ -1,5 +1,5 @@
-project = 'FamilySearch-login'
-author = 'FamilySearch-login'
+project = 'familysearch-login-account'
+author = 'familysearch-login-account'
 release = '1.0'
 
 # Extensions
@@ -25,4 +25,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://FamilySearch-login.readthedocs.io/en/latest/'
+html_baseurl = 'https://familysearch-login.readthedocs.io/en/latest/'
